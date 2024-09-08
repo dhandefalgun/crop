@@ -47,7 +47,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 pickle-mixin==1.0.2
 pickleshare==0.7.5
-Pillow==9.5.0
+Pillow
 pipreqs==0.5.0
 platformdirs==4.2.2
 prompt_toolkit==3.0.47
